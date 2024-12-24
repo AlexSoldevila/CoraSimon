@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 456 456" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="346" y1="236" x2="346" y2="456" id="gradient-0">
+      <stop offset="0" style="stop-color: rgb(100% 100% 0%)"/>
+      <stop offset="1" style="stop-color: rgb(54.442% 57.667% 0%)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="346" y1="0" x2="346" y2="220" id="gradient-1">
+      <stop offset="0" style="stop-color: rgb(0% 100% 0%)"/>
+      <stop offset="1" style="stop-color: rgb(0% 57.693% 3.7035%)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="110" y1="0" x2="110" y2="220" id="gradient-2">
+      <stop offset="0" style="stop-color: rgb(100% 0% 0%)"/>
+      <stop offset="1" style="stop-color: rgb(64.913% 0% 0%)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="110" y1="236" x2="110" y2="456" id="gradient-3">
+      <stop offset="0" style="stop-color: rgb(0% 0% 100%)"/>
+      <stop offset="1" style="stop-color: rgb(0% 24.795% 42.19%)"/>
+    </linearGradient>
+  </defs>
+  <rect width="456" height="456" style="stroke: rgb(0, 0, 0); fill-rule: nonzero; fill: rgb(85, 182, 218);"/>
+  <path style="stroke: rgb(0, 0, 0); fill: url(&quot;#gradient-2&quot;);" d="M 40 0 H 220 V 220 H 0 V 40 A 40 40 0 0 1 40 0 Z" bx:shape="rect 0 0 220 220 40 0 0 0 1@8590a162"/>
+  <path style="stroke: rgb(0, 0, 0); fill: url(&quot;#gradient-3&quot;);" d="M 0 236 H 220 V 456 H 40 A 40 40 0 0 1 0 416 V 236 Z" bx:shape="rect 0 236 220 220 0 0 0 40 1@ad057673"/>
+  <path style="stroke: rgb(0, 0, 0); fill: url(&quot;#gradient-1&quot;);" d="M 236 0 H 416 A 40 40 0 0 1 456 40 V 220 H 236 V 0 Z" bx:shape="rect 236 0 220 220 0 40 0 0 1@601304f9"/>
+  <path style="stroke: rgb(0, 0, 0); fill: url(&quot;#gradient-0&quot;);" d="M 236 236 H 456 V 416 A 40 40 0 0 1 416 456 H 236 V 236 Z" bx:shape="rect 236 236 220 220 0 0 40 0 1@565a2d5e"/>
+</svg>
